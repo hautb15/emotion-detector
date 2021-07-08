@@ -15,7 +15,7 @@ We've setup a Colab notebook that trains a model and renders this UI. You can fi
 You can modify this UI and run it locally with a converted model by running:
 
 ```js
-git clone https://github.com/vanpelt/emotion-detector
+git clone https://github.com/hautb15/emotion-detector
 cd emotion-detector
 npm install
 npm run start
